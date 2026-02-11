@@ -6,19 +6,6 @@
   Hello, I'm Esteban Hernández
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<br/>
-
-<h2> About Me 💻 </h2>
-
-- 📚 I’m currently studying at [Universidad Latina](https://www.ulatina.ac.cr/)
-  
-- 🤓 I'm currently learning Full-Stack Development.
-  
-- 👨🏼‍💻 Open to collaborate on Web Development.
-  
-- ⚡️ Fun fact: I love football & music ⚽️ 🎧.
-
-- 📬 How to reach me **estebanh493@gmail.com**.
 
 <br/>
 <h2> Skills 🛠️ </h2>
